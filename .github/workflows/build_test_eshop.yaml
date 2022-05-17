@@ -1,4 +1,4 @@
-name: Build and test our Eshop
+name: Build and test our Eshop #comment abych mohl otestovat pull request
 
 on:
   workflow_dispatch:
